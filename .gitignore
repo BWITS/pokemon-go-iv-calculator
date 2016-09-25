@@ -3,3 +3,4 @@ node_modules
 npm-debug.log
 screenshots
 static/js/build.js
+*.csv
