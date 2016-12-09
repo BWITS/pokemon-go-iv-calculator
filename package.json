@@ -23,7 +23,9 @@
     "react-motion": "0.4.0",
     "react-select": "1.0.0-beta14",
     "react-swipeable-views": "0.7.1",
-    "react-spinkit": "1.1.8"
+    "react-spinkit": "1.1.8",
+    "react-tap-event-plugin": "^1.0.0",
+    "react": "^15.4.1"
   },
   "devDependencies": {
     "babel-preset-airbnb": "2.0.0",
